@@ -1,2 +1,2 @@
-# jhuarancca2025
+# jhuarancca
 Repo de ejemplo
