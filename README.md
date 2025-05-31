@@ -2,4 +2,4 @@
 
 **Current interests: Agile, Analytics Project Manegement, Data Governance, ML platforms, Software Architecture, Generative AI**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhuarancca&hide=vim%20script)](https://github.com/jhuarancca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhuarancca&layout=compact&hide=vim%20script)](https://github.com/jhuarancca/github-readme-stats)
